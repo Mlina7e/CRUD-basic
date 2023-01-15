@@ -1,0 +1,36 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="client/src/pages/Update.jsx">
+    <Files>
+      <File FileName="backend/package.json" Line="18" Column="1" />
+      <File FileName="backend/index.js" Line="30" Column="28" />
+      <File FileName="client/src/App.js" Line="16" Column="27" />
+      <File FileName="client/src/style.css" Line="13" Column="2" />
+      <File FileName="client/src/pages/Books.jsx" Line="44" Column="84" />
+      <File FileName="client/src/pages/Add.jsx" Line="11" Column="8" />
+      <File FileName="client/src/pages/Update.jsx" Line="20" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Option id="ShowVersionControlOverlays" value="False" />
+          <Node name="test" expanded="True">
+            <Node name="backend" expanded="True" />
+            <Node name="client" expanded="True">
+              <Node name="src" expanded="True">
+                <Node name="pages" expanded="True" />
+                <Node name="style.css" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
